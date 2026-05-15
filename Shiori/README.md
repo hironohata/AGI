@@ -39,8 +39,8 @@ Then follow the on-screen instructions.
 ## Environment
 
 - Python >= 3.8 
-- PyMuPDF >=1.18.0
-- PyQt6 >=6.4.0
+- PyMuPDF >= 1.18.0
+- PyQt6 >= 6.4.0
 
 ## Remarks
 
